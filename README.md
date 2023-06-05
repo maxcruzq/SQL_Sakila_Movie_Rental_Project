@@ -1,4 +1,4 @@
-# SQL_Sakila_Movie_Rental_Project
+# SQL Sakila Movie Rental Project
 MySQL project that answer real business question and scenarios of a movie rental store dataset.
 
 # Schema
