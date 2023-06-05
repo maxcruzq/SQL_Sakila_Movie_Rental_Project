@@ -1,6 +1,10 @@
 # SQL_Sakila_Movie_Rental_Project
 MySQL project that answer real business question and scenarios of a movie rental store dataset.
 
+# Schema
+
+![sakila_schema](https://github.com/maxcruzq/SQL_Sakila_Movie_Rental_Project/assets/132103792/f101de6e-e711-4f3d-86cb-4beea99bf005)
+
 ## Real Business Questions
 1. Email Campaigns for customers of Store 2
     First, Last name and Email address of customers from Store 22. Total number of registrations
